@@ -1,0 +1,18 @@
+	Col.1	Col.2	Col.3	Col.4	Col.5
+	beta/p	beta/p	beta/p	beta/p	beta/p
+(Abs) Mfct NX/GDP	0.37		0.31	0.33	0.28
+	0.001		0.008	0.009	0.025
+GDP per capita (log)		-0.27	-0.13	0.21	0.27
+		0.013	0.265	0.285	0.381
+VA Non-Tradables/GDP				-0.47	
+				0.036	
+VA Commodities/GDP					0.59
+					0.110
+VA Mfct/GDP					0.14
+					0.306
+Agg NX/GDP					-0.06
+					0.697
+Constant					
+	0.000	0.000	0.033	0.063	0.440
+R-sqr	0.14	0.07	0.15	0.26	0.24
+Obs	76	76	76	76	76

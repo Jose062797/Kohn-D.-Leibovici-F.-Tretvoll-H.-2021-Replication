@@ -1,0 +1,15 @@
+CountryGroup,Mean,Mean,Mean,Mean,Mean,Mean,Mean
+,sd Y,sd TB Y,sd C Y,sd I Y,sd N Y,sd TFP Y,sd pc Y
+Developed,0.02251,1.39108,0.96272,3.29773,0.77519,0.70156,9.41588
+Emerging,0.04229,3.43864,1.34415,3.90265,0.57255,0.95508,5.01081
+
+CountryGroup,Mean,Mean,Mean,Mean,Mean,Mean,Mean
+,corr Y Y,corr TBY Y,corr C Y,corr I Y,corr N Y,corr TFP Y,corr pc Y
+Developed,1.00000,-0.27903,0.71676,0.83011,0.68132,0.68527,0.09906
+Emerging,1.00000,-0.20106,0.61052,0.65125,0.21762,0.77291,0.11263
+
+CountryGroup,Mean,Mean,Mean,Mean,Mean,Mean,Mean
+,ac Y,ac TB Y,ac C,ac I,ac N,ac TFP,ac pc
+Developed,0.58297,0.38165,0.53773,0.63549,0.72637,0.51081,0.84858
+Emerging,0.54894,0.30915,0.37692,0.49233,0.50360,0.52356,0.84877
+

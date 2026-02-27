@@ -1,0 +1,10 @@
+CountryGroup,Mean,Mean,Mean,Mean
+,sd Y,sd TB Y,sd C Y,sd I Y
+Developed,0.02251,1.39108,0.96272,3.29773
+Emerging,0.04229,3.43864,1.34415,3.90265
+
+CountryGroup,Mean,Mean
+,corr TBY Y,ac Y
+Developed,-0.27903,0.58297
+Emerging,-0.20106,0.54894
+
